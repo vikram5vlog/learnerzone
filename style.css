@@ -1,0 +1,35 @@
+/*selector {property: value;}*/
+body {
+	background-image: url(background.jpg);
+	background-size: cover;
+}
+#div1{
+	color: #FFF1AA;
+	text-align: center;
+	font-style: oblique;
+	font-weight: bolder;
+	font-size: medium;
+
+}
+h1{
+	text-align: center;
+	font-stretch: expanded:;
+	font-weight: bolder:;
+	border: dashed yellow;
+	color: red;
+	text-shadow :4px 4px 9px green;
+}
+#div2{
+	font-weight: bold;
+
+}
+h2{
+	color:#550000;
+}
+ol{
+	font-weight:bolder;
+}
+#div3{
+	color: #550000;
+	font-weight: bold;
+}
